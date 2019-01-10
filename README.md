@@ -16,22 +16,22 @@ highlightTheme: "darkula"
 
 ---
 
-# Why use Docker?
-
-- Public container registries (DockerHub)
-  - Spin up any type of environment fast
-- Project environment consistency and maintainability (Mac/Win)
-- Deployable?
-
----
-
-<iframe width="660" height="415" src="https://www.youtube.com/embed/pGYAg7TMmp0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![What is docker](https://img.youtube.com/vi/pGYAg7TMmp0/0.jpg)](https://www.youtube.com/tv#/watch?v=pGYAg7TMmp0)
 
 ---
 
 ## What is Docker?
 
 ![DOCKER](https://lh6.googleusercontent.com/OLNkuRtYmA-8DwJ1-gSM9HL4Uxu56ae3yX5deu9997DXNtNEFbaAnuwSTlKFbAlmwH8GqJohKNow8gpDbUj_LPqW1sfXBu7CLDFB2cL5jqCuuLiOc89AKdH2yiYkq-37EdnePetq "DOCKER")
+
+---
+
+# Why use Docker?
+
+- Public container registries (DockerHub)
+  - Spin up any type of environment fast
+- Project environment consistency and maintainability (Mac/Win)
+- Deployable?
 
 ---
 
