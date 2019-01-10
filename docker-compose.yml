@@ -1,0 +1,28 @@
+version: "3.5"
+services:
+  app:
+    # you don't need this, one will be auto generated
+    container_name: docker-devchat-app
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    volumes:
+      - ./frontend/src:/usr/src/app/src
+      - ./frontend/public:/usr/src/app/public
+      - /usr/src/app/node_modules
+    ports:
+      - "4000:3000"
+    environment:
+      - NODE_ENV=development
+    links:
+      - mockapi
+  mockapi:
+    build:
+      context: ./mockapi
+      dockerfile: Dockerfile
+    container_name: docker-devchat-mockapi
+    ports:
+      - "8000:3000"
+    volumes:
+      - ./mockapi:/usr/src/app
+      - /usr/src/app/node_modules

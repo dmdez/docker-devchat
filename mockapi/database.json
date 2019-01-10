@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "name": "Sean Connolly",
+      "title": "Product Designer",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9df6b241b1a8ffdae10fe_sean-smile.jpg"
+    },
+    {
+      "name": "Hai Chen",
+      "title": "Product Strategist",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5c3645f8260cf6fd770973a8_hai-smile-p-800.jpeg"
+    },
+    {
+      "name": "Trevor Brixey",
+      "title": "Application Developer",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9de8fc6c2f534a71ed4ab_TrevorSmile-p-800.jpeg"
+    },
+    {
+      "name": "Pamela Porto",
+      "title": "Product Designer",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9def0241b1a98beae10cc_PamelaSmile.jpg"
+    },
+    {
+      "name": "CK Hicks",
+      "title": "Application Developer",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9de07172b7a6929ecc726_CKSmile.jpg"
+    },
+    {
+      "name": "Neal Dyrkacz",
+      "title": "Application Developer",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9e0af8b17c883e110ef86_neal-smile-p-800.jpeg"
+    },
+    {
+      "name": "Michael Luchen",
+      "title": "Senior Product Manager",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9df83ff3bed841a7b7a90_michael-smile-p-800.jpeg"
+    },
+    {
+      "name": "Justin Mertes",
+      "title": "Product Manager",
+      "image": "https://uploads-ssl.webflow.com/5b6b50e79e9b6f7d0d3959a2/5bc9de32eae49fd698717f92_JustinSmile2-p-800.jpeg"
+    }
+  ]
+}

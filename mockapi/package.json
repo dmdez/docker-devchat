@@ -1,0 +1,14 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "Simple Fake API",
+  "main": "main.js",
+  "scripts": {
+    "start": "json-server --watch ./database.json"
+  },
+  "author": "ME:)",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
